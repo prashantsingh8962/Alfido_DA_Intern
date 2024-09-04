@@ -2,7 +2,7 @@
 
 This repository contains three key data analysis tasks performed using Python (Pandas, Matplotlib, Seaborn) and other tools as necessary.
 
-## 3. Sales Performance Analysis
+## 1. Sales Performance Analysis
 
 **Objective:** Analyze sales data to identify trends, patterns, and areas for improvement in sales performance.
 
